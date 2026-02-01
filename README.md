@@ -19,3 +19,7 @@ It covers **basic to advanced animation concepts**, useful for learning, practic
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/framer-motion-react-vite.git
+
+### 2️⃣ Navigate to Project Folder
+
+cd framer-motion-react-vite
