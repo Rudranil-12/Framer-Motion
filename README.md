@@ -37,3 +37,20 @@ npm run dev
 ## 📦 Framer Motion Installation
 
 npm install motion
+
+---
+
+## 🎯 Purpose of This Repo
+
+- Learn Framer Motion from scratch
+
+- Practice React animations
+
+- Reference for future projects
+
+- Showcase animation skills on GitHub
+
+- Help beginners understand Framer Motion concepts easily
+
+---
+
