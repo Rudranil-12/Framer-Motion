@@ -27,3 +27,7 @@ cd framer-motion-react-vite
 ### 3️⃣ Install Dependencies
 
 npm install
+
+### 4️⃣ Run Development Server
+
+npm run dev
