@@ -31,3 +31,9 @@ npm install
 ### 4️⃣ Run Development Server
 
 npm run dev
+
+---
+
+## 📦 Framer Motion Installation
+
+npm install motion
