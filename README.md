@@ -13,3 +13,5 @@ It covers **basic to advanced animation concepts**, useful for learning, practic
 - 🎨 CSS / Tailwind CSS (if used)
 
 ---
+
+## 🚀 Getting Started
