@@ -68,3 +68,8 @@ npm install motion
 
 ---
 
+## ⭐ Support
+
+If you find this repository helpful, don’t forget to star ⭐ the repo!
+
+---
