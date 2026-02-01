@@ -54,3 +54,17 @@ npm install motion
 
 ---
 
+## 🧠 Who Can Use This?
+
+- React beginners
+
+- Frontend developers
+
+- UI/UX designers
+
+- Students preparing projects
+
+- Anyone learning animations in React
+
+---
+
