@@ -18,11 +18,11 @@ It covers **basic to advanced animation concepts**, useful for learning, practic
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/framer-motion-react-vite.git
+git clone https://github.com/Rudranil-12/Framer-Motion.git
 
 ### 2️⃣ Navigate to Project Folder
 
-cd framer-motion-react-vite
+cd Framer-Motion
 
 ### 3️⃣ Install Dependencies
 
