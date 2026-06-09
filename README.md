@@ -12,6 +12,7 @@ It covers **basic to advanced animation concepts**, useful for learning, practic
 - 🎞 Framer Motion
 - 🎨 CSS / Tailwind CSS (if used)
 
+
 ---
 
 ## 🚀 Getting Started
